@@ -23,4 +23,3 @@ http://127.0.0.1
 
 Hello World from SpaceFleet
 
-March 30th 2:12 am
